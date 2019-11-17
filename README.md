@@ -1,5 +1,5 @@
 # kms.sh
-kms
+
 wget --no-check-certificate https://raw.githubusercontent.com/becapital/kms.sh/master/kms.sh && chmod +x kms.sh && ./kms.sh
 
 安装完成后，输入以下命令查看端口号 1688 的监听情况
